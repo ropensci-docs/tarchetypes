@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "cbce5fb932868f7bf475959ecd767845f622a89c",
+    "author": "wlandau <will.landau@gmail.com>",
+    "time": "2021-03-03 18:46:23",
+    "files": 2,
+    "merge": true,
+    "message": "Merge branch 'main' of github.com:ropensci/tarchetypes into main\n"
+  },
+  "remote": "https://github.com/ropensci/tarchetypes",
+  "pkg": "tarchetypes"
+}
