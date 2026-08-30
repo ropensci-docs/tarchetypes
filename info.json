@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "e1581f8e4bb4fbb643ca185aa54c4c8c641a24ef",
+    "author": "wlandau <will.landau.oss@gmail.com>",
+    "time": "2026-03-23T20:03:08Z",
+    "files": 2,
+    "merge": false,
+    "message": "development version 0.14.1.9000\n"
+  },
+  "repo": "https://github.com/ropensci/tarchetypes",
+  "pkg": "tarchetypes",
+  "time": "2026-08-30T08:14:42Z"
+}
